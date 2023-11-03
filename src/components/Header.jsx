@@ -8,10 +8,10 @@ const Header = () => {
         <img src="https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" />
       </div>
       <div className="flex gap-2 text-[#333333] mt-4">
-        <a href="https://instagram.com" target="_blank">
+        <a href="https://instagram.com/nayakayp" target="_blank">
           <AiOutlineInstagram />
         </a>
-        <a href="https://twitter.com" target="_blank">
+        <a href="https://twitter.com/nayakayp" target="_blank">
           <AiOutlineTwitter />
         </a>
       </div>
